@@ -1,1 +1,3 @@
 # SULI-Text-Mining-Project
+
+Scientific literature contains vast troves of knowledge that scientists and students must be acquainted with during their studies and entire careers.  However, in some disciplines, this literature is much too large for human consumption alone.   The traditional method of following the citation trail misses entire chunks of results that the reader may only encounter by chance. Text mining methods allow making connections between published papers and facilitate pointed search.   In this project, I will become acquainted with various computational methods for extracting useful text, figures, and data from the scientific literature.  This knowledge will be applied to extracting and processing a corpus in a specific discipline.  
