@@ -1,0 +1,53 @@
+We created a tribuffer from 0.05 M glycylglycine (pKa= 3.14, Acros Organics), 0.05M acetic acid (pKa= 4.76, Sigma-Aldrich), 0.10 M Bis-Tris (pKa=6.46, Sigma) based on work by Ellis and Morrison.
+Diffraction data for Cp1 were collected remotely from the Stanford Synchrotron Radiation Lightsource (SSRL) on beamline 12−2 with a DECTRIS Pilatus 6 M detector.
+Kp1  was  purified  from K.  pneumoniae strain  UNF1613  (derived  from  the  wild-type  strain M5a1) (3) using a protocol based on that used for wild-type Kp1 (4) but at pH 7.4 and 8 °C.
+All  subsequent  downstream  processing  and statistical analysis was effected using programs from the CCP4 suite unless otherwise stated.
+Crystals were harvested anaerobically under an argon stream and immobilized on pins using a novel “sandwich” loop designed to prevent the crystals from washing away during electrochemical studies.
+An OMNI-101 microprocessor-controlled potentiostat (Cypress Systems, Lawrence, KS) was used to control potential, and constant stirring was used to achieve a uni-form solution. 
+At  this  point,  the  molecular  replacement  was  repeated  using  superimposed  1NIP  and  CP2 models. 
+The amino acid sequences employed in the Fe-protein alignment  were  retrieved  from  the  National  Biomedical Research   Foundation   Protein   Identification   Resource(PIR),  GenBank  Genetics  Sequence  Data  Bank  (GB),  and SWISS_PROT  Protein  sequence  Database  (SW) via the National   Center   for   Biotechnology   Information. 
+Significant   improvements   were   observed   in   the   subsequent crystallization  trials  when  the  final  stage  of  the  puriÆ-cation  protocol  was  repeated.
+This revealed greater than 1.75 Mo and 26.5 Feper  protein  tetramer,  where  values  of  2  Mo  and  30  Fe would  indicate  a  full  metal  complement.  
+The crystals were flash cooled in liquid nitrogen on rayon loops before data collection on beam line 11-1at the Stanford Synchrotron Radiation Laboratory under a continuous flow of liquid nitrogen at 100 K.
+AutoMR of CCP4 suite of programs[26] was used to accomplish molecular replacement using the a2b2MoFe protein heterotetramer (PDB ID: 1M1N)[27] as the starting model.
+The variant MoFe protein was purified to > 95% purity, confirmed by SDS gel electrophoresis.
+Data collected from nitrogenase variant crystals were processed and scaled by XDS[19]and HKL2000[20]. 
+Although  the  biosynthesis  of  nitrogenaseis a particularly involved process because of the  complexity  of  the  metallo clusters,  even for  “simpler”  metallo proteins,  incorporation of transition metals into active sites involves the  participation  of  multiple  proteins  to  en-sure proper uptake and distribution. 
+Both  systems  appear  to share  a  common  requirement  for  protein-protein interactions for incorporation of the metallo center.
+Two data sets (Table 3), Nat- I and Nat- 2, were collected fr om flash frozen crystals on an R- Axis Ile imaging plate with monochromatized CuKac radiation produced by a Rigaku RU 200 rotating anode generator operating at 50 kV and 100 mA.
+A bulk solvent correction allowed the inclusion of all low-resolution reflections. 
+Manipulation of proteins was done in septum-sealed serum vials under an argon atmosphere. 
+Initial rigid body fitting and refinement were performed using AutoMR of the CCP4 suite of programs.
+The solution gave anR-factor of 0.39 and a correlation  of  0.51  to  4.0  Å  resolution. 
+The 2-fold averaging included the noncrystallo-graphic symmetry relationship between the equivalent halves of the complex. 
+The Fe protein was crystallized by microcapillary batch diffusion (8) using 30% PEG 4000, 0.1 M Tris-HCl (pH 8.5),0.2  M  sodium  acetate,  and  18%  glycerol  as  precipitating solutions. 
+During refinement, a bulk solvent correction allowed the inclusion of all low-resolution reflections and 5% of the data were randomly selected for cross validation (17).
+Samples were incubated for 8 min with gentle shaking  in  a  30°C  water  bath,  and  the  reaction  was terminated by addition of 250ÌL of 0.4 M EDTA solution.
+Temperatures  were  controlled and monitored using an Oxford Instruments modelITC4  temperature  controller  with  a  digital  readout.
+This ratio favors  complete  complex  formation  based  upon  the  Av1component,  which  facilitates  isolation  of  the  complex  by chromatography  on  a  Superdex  S-200  sizing  column.
+These crystallizations were conducted at 4°C. Isomorphous crystals could be prepared with lower concentrations or even in the absence of cadaverine, but the diffraction  quality  was  significantly  poorer. 
+For the collection of multiple wavelength anomalous dispersion (MAD) data, absorption edge measurements were utilized to identify the energies of f′ and f′′.
+The  structure  was  determined  using  a  combination  of molecular replacement (MR) techniques using AMORE (38)and multiple wavelength anomalous dispersion methods (39) using the program SOLVE (40) for the identification of Fe sites and phase calculation.
+The crystals were flash-cooled in liquid nitrogen on rayon loops, and data were collected on beamline 9-2 at the Stanford Synchrotron Radiation Laboratory under a continuous flow of liquid nitrogen at 100 K.
+Both subunits in the structure have clear and unambiguous density for residues 30-297, for one [4Fe-4S] cluster, and one MgADP molecule per subunit. 
+The protein concentration was determined by absorbance at 410 nm prior to 1:400 dilution in nitric acid to give a concentration of 35−50μg/mL for aspiration by the ICP-MS instrument
+For the reaction in the presence of ATP, 1 mMATP, 8 mM MgCl2, and the creatine kinase-based ATP regenerating system were added.
+Large scale growth was accomplished using 20 L carboys and monitored using a Hewlett-Packard 8453 UV-Visible spectrophotometer.
+The quality of the refined structures was analyzed using PROCHECK (Laskowski et al., 1993).
+For the preparation of Av1-Se-CO, CO-inhibited activity assays were prepared as described earlier (Spatzal et al., 2014) with the substitution of Av1-Se2B for Av1 in the absence of acetylene.
+The standard deviation between anomalous density values for the Fe-atoms was 4%.
+Atomic coordinates and structure factors were deposited into the RCSB data bank under PDB ID: 5CX1.
+The numerical solution to the Thorneley−Lowe scheme yielded the concentration of all reaction intermediates and products, including C2H4. 
+A low pH solution was made according to the recipe for each well’s reservoir solution except that atribuffer at low pH was substituted for Tris/HCl (Cp1) or imidazole/malate (Av1) at pH 8. 
+After solubility tests, the following solution was chosen for low pH EPR studies: 100 mM tribuffer at pH2, 500 mM MgCl2, and 5 mM sodium dithionite.
+Reactivation from CO consisted of bubbling a fresh reaction mixture containing all activity components with Ar to replace excess CO.
+While Se-substitution in iron−sulfur clusters is by no means novel, we are unaware of any previous studies wherein Se K-edge XAS was used to probe Se-substituted iron−sulfurclusters.
+The  crystals  of  Asp39 Asn-MgADP were equilibrated in a cryo protection solution containing an additional 10 mM MgADP. 
+Model bias was removed for the incorporation of R free calculation for cross-validation by randomization using the simulated annealing routine of X-PLOR [36] with an annealing temperature of 4000 K.
+Datasets  collected  near  the  Fe-absorption  edge  typically  showed  good  anomalous  correlation  coefficients to a resolution of 5.5 Å, depending on the dataset. 
+Transfer  of  a  model  between  datasets  was  done  by  either  molecular  replacement  or  rigid  body  refinement.
+The FeK-edge site-specific X-ray absorption spectroscopy data were processed as described previously (Einsleet  al.,2007).
+For comparison, the overall r.m.s.d. deviation is 0.46 A ̊between the two closely related MoFe proteins Av1 and Kp1 over 1976 residues (99% of the Kp1 sequence).
+We crystallized both forms by the hanging-drop vapour diffusion method.
+We obtained the initial phases by multiple-wavelength anomalous diffraction phasing with selenium using SHARP27and continuous density modification with SOLOMON.
+The  reaction  mixtures  were  incubated  for  7–32 min  at34uC.
