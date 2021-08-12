@@ -1,14 +1,12 @@
-import random
+from sentence_transformers import SentenceTransformer
+model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 
-def randomNumber():
-	for count in range(10):
-		number = random.randint(1, 50)
-		print(number+1)
+sentences = ['This framework generates embeddings for each input sentence',
+    'Sentences are passed as a list of string.', 
+    'The quick brown fox jumps over the lazy dog.']
+sentence_embeddings = model.encode(sentences)
 
-randomNumber()
-
-print("This code prints out random numbers")
-
-print("This is a test update")
-
-
+for sentence, embedding in zip(sentences, sentence_embeddings):
+    print("Sentence:", sentence)
+    print("Embedding:", embedding)
+    print("")
